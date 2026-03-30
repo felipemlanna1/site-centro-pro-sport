@@ -1,9 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
-*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
-:root{--accent:#10B981;--accent-d:#059669;--accent-glow:rgba(16,185,129,0.15);--dark:#060B0F;--surface:#0D1318;--white:#F0F4F8;--gray:#5A7080;--text:#8BA3B5}
-html{scroll-behavior:smooth}
-body{font-family:'Inter',sans-serif;background:var(--dark);color:var(--text);overflow-x:hidden;-webkit-font-smoothing:antialiased}
-h1,h2,h3,h4{color:var(--white)}
-a{text-decoration:none;color:inherit}
-.sp{padding:80px 24px}
-.mx{max-width:1000px;margin:0 auto}
